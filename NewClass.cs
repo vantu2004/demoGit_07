@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace demoGit_07
 {
-    internal class Program
+    internal class NewClass
     {
-        private int temp01;
-        private int temp02;
-        static void Main(string[] args)
-        {
-        }
+        private string name;
+        private string email;
     }
 }
