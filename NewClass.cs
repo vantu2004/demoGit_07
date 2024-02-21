@@ -11,5 +11,6 @@ namespace demoGit_07
         private string name;
         private string address;
         private string phone;
+        private string id;
     }
 }
