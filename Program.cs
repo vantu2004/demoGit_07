@@ -10,6 +10,7 @@ namespace demoGit_07
     {
         private int temp01;
         private int temp02;
+        private int temp03;
         static void Main(string[] args)
         {
         }

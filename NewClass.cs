@@ -10,5 +10,6 @@ namespace demoGit_07
     {
         private string name;
         private string email;
+        private string phone;
     }
 }
