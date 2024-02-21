@@ -9,7 +9,7 @@ namespace demoGit_07
     internal class Program
     {
         private int temp01;
-        private int temp02;
+        private int temp04;
         private int temp03;
         static void Main(string[] args)
         {
