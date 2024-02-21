@@ -9,6 +9,7 @@ namespace demoGit_07
     internal class NewClass
     {
         private string name;
-        private string email;
+        private string address;
+        private string phone;
     }
 }
